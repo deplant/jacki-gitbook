@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Page](README.md)
-
 ## Getting Started
 
-* [What is Jacki?](getting-started/what-is-jacki.md)
+* [What is Jacki?](README.md)
 * [Installation](getting-started/installation.md)
 * [Quick Start](getting-started/quick-start.md)
 
@@ -20,3 +18,4 @@
 
 * [Contract Tests](examples/contract-tests.md)
 * [Simple Trading Bot](examples/simple-trading-bot.md)
+* [Page](examples/page.md)
