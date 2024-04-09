@@ -1,0 +1,3 @@
+# Simple Trading Bot
+
+Example
